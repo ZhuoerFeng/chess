@@ -1,0 +1,4 @@
+white
+bishop 1 c3
+black
+pawn 5 a2 a3 f3 h3 c6

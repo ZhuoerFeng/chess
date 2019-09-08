@@ -1,0 +1,5 @@
+white
+king 1 e1
+black
+king 1 e7
+rook 2 g6 b3

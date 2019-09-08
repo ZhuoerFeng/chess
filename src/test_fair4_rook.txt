@@ -1,0 +1,11 @@
+white
+king 1 a1
+queen 1 a7
+rook 1 f1
+pawn 1 g5
+black
+king 1 g8
+rook 1 h8
+bishop 1 h7
+pawn 1 g6
+

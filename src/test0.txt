@@ -1,0 +1,4 @@
+white
+pawn 1 a2
+black
+pawn 1 a7
